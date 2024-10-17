@@ -12,6 +12,6 @@ public:
             else{
                 e = mid;
             }
-        }return e;
+        }return s;
     }
 };
